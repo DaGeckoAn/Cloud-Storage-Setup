@@ -13,6 +13,8 @@
 **MENTOR**: NEELA SANTOSH
 
 **DESCRIPTION**: 
+                 **TASK 1**: CLOUD STORAGE SETUP
+                 
 🚀 Step 1: Create a Cloud Storage Bucket
                     Login to Google Cloud Console: https://console.cloud.google.com/.
                     Select your project (or create one if you haven't).
